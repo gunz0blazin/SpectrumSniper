@@ -1,6 +1,8 @@
 # SpectrumSniper
 Spectrum Router Default Password Wordlist
 
+
+
 This word list combines thousands of adjectives with thousands of nouns for a total of 11,215,122 combined words. With hashcat you can add in every combination of 3 digits after each combined word with ?d?d?d
 
 The final hashcat command would look something like this:
